@@ -1,0 +1,22 @@
+body {
+  background: #333333;
+}
+
+#main {
+  background: white;
+  margin-top: 10%;
+  margin-right: 5%;
+  margin-bottom: 10%;
+  margin-left: 5%;
+  outline: grey outset;
+}
+
+#header {
+  background: green;
+  text-align: center;
+  color: black;
+}
+
+div {
+  padding: 20px;
+}
